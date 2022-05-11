@@ -1,0 +1,143 @@
+
+
+header{
+
+	position: absolute;
+	width: 1146px;
+	height: 68px;
+	left: 220px;
+	top: 0px;
+	background: #FDF1EB; /*att lá acho q fica em outro lugar*/
+	border: 1px solid red;
+
+}
+
+#teste
+{
+	position: absolute;
+	width: 391px;
+	height: 16px;
+	left: 36px;
+	margin-top: 5px;
+
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 16px;
+	/* identical to box height */
+
+
+	color: green;
+	border: 1px solid blue;
+}
+
+
+header h1{
+	/* Anais do 13º Simpósio Latino Americano de Ciência de Alimentos */
+
+
+	position: absolute;
+	width: 643px;
+	height: 26px;
+	left: 36px;
+	margin-top: 23px;
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 22px;
+	line-height: 26px;
+	/* identical to box height */
+
+
+	color: #725C5C;
+
+}
+
+header h2{
+	/* Anais do Simpósio Latino Americano de Ciências de Alimentos */
+
+
+	position: absolute;
+	width: 391px;
+	height: 16px;
+	left: 36px;
+	margin-top: 5px;
+
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 16px;
+
+	color: #725C5C;
+}
+
+header h3{
+	/* ISSN: 1234-5678 */
+
+
+	position: absolute;
+	width: 105px;
+	height: 16px;
+	left: 36px;
+	margin-top: 48px;
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 16px;
+
+	color: #725C5C;
+}
+#language{
+	box-sizing: border-box;
+
+	position: absolute;
+	width: 97px;
+	height: 34px;
+	left: 789px;
+	top: 17px;
+
+	border: 1px solid #CCCCCC;
+	border-radius: 3px;
+}
+span .text{
+	/* PT, BR */
+
+
+	position: absolute;
+	width: 42px;
+	height: 18px;
+	left: 820px;
+	top: 25px;
+
+	font-family: 'Quicksand';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 18px;
+	/* identical to box height */
+}
+img .img1{
+	/* language image */
+	position: absolute;
+	width: 22px;
+	height: 21px;
+	left: 798px;
+	top: 22px;
+
+}
+img .img2{
+	/* dropdown */
+	position: absolute;
+	width: 6px;
+	height: 4px;
+	left: 867px;
+	top: 33px;
+}
+/*amanhã continuar o head, ve pq a img está esquisita e n mexe*/
