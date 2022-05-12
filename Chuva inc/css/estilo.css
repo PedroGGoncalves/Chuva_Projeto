@@ -449,3 +449,142 @@ border-radius: 5px;
 
 background: #E7E7E7;
 }
+#resumo{
+	width: 1058px;
+height: 45px;
+left: 265px;
+top: 642px;
+
+background: #FDF1EB;
+border: 1px solid #ECECEC;
+border-radius: 3px 3px 0px 0px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 25px;
+color: #4E4E4E;
+
+}
+#resumo #texto{
+	margin: 10px;
+}
+#lorem{
+	width: 1058px;
+height: 122px;
+left: 265px;
+top: 642px;
+	border: 1px solid #ECECEC;
+border-radius: 3px 3px 0px 0px;
+font-family: 'Quicksand';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 23px;
+letter-spacing: 0.02em;
+}
+#lorem #texto{
+	margin: 10px;
+}
+#orange{
+	color: orange;
+	text-align: right;
+	margin-top: -30px;
+
+	text-decoration: none;
+}
+#lorem2{
+	width: 1058px;
+height: 560px;
+left: 265px;
+top: 642px;
+	border: 1px solid #ECECEC;
+border-radius: 3px 3px 0px 0px;
+font-family: 'Quicksand';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 23px;
+letter-spacing: 0.02em;
+}
+p
+{
+	position: absolute;
+left: 30.64%;
+right: 29.51%;
+top: 250px;
+bottom: 39%;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 21px;
+
+color: #ED7839;
+
+}
+#icones{
+	margin-left: 360px;
+}
+#pos2{
+	left: 20.44%;
+right: 20.44%;
+top: 400px;
+bottom: 28.15%;
+
+font-family: 'Quicksand';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+text-align: center;
+
+color: #595959;
+}
+#fundo
+{
+	background: url(../imagens/divisória.png) no-repeat;
+
+	margin-left: 15px;: 
+}
+#criar{
+	margin-left: 450px;
+	margin-top: -50px;
+	background: linear-gradient(180deg, #FEB254 0%, #F0813D 100%);
+box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.12), 0px 2px 2px rgba(0, 0, 0, 0.24);
+border-radius: 4px;
+text-decoration: none;
+color: white;
+padding: 5px;
+}
+#resu2{
+	width: 1058px;
+height: 145px;
+left: 265px;
+top: 642px;
+
+background: white;
+border: 1px solid #ECECEC;
+border-radius: 3px 3px 0px 0px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 25px;
+color: #ED7839;
+
+}
+#name{
+	font-family: 'Quicksand';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+
+color: #5C5C5C;
+}
