@@ -183,7 +183,38 @@ text-align: center;
 
 color: #FFFFFF;
 border: 1px solid red;
+background-attachment: fixed;
 }
 aside #slaca{
 	background: linear-gradient(180deg, #FFB354 0%, #EE7A3A 100%);
+
+}
+
+
+
+/* Formatar menus laterais
+*/
+aside #lateral ul a {
+	font-family: 'Quicksand';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 19px;
+		text-align: left;
+	display: block;
+	line-height: 30px;
+	color: #725C5C;
+	text-decoration: none;
+	border-bottom: 1px solid #f3f3f3;
+}
+
+aside #lateral ul a:hover {
+	background: #f9f9f9 url(../imagens/marcador.png) no-repeat left center;
+	color: #a1a1a1;
+}
+a#trabalho
+
+{
+	
+	background: #FDF1EB;
 }
