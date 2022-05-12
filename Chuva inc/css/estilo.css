@@ -1,7 +1,5 @@
 
 
-
-
 header{
 
 	position: absolute;
@@ -201,6 +199,7 @@ font-weight: 500;
 font-size: 15px;
 line-height: 19px;
 		text-align: left;
+padding-left: 5px;
 	display: block;
 	line-height: 30px;
 	color: #725C5C;
@@ -211,12 +210,13 @@ line-height: 19px;
 aside #lateral ul a:hover {
 	background: #f9f9f9 url(../imagens/marcador.png) no-repeat left center;
 	color: #a1a1a1;
+
 }
 a#trabalho
 
 {
 	
-	background: #FDF1EB;
+	background: #FDF1EB url(../imagens/rectangle1.png) no-repeat;
 }
 article{
 	position: absolute;
@@ -321,6 +321,7 @@ text-align: right;
 letter-spacing: 0.05em;
 
 color: #ED7839;
+
 }
 article #postagem
 {
@@ -331,6 +332,8 @@ left: 2px;
 top: 73px;
 background: url(../imagens/dewey1.png) rgba(141, 53, 6, 0.5); 
 border-radius: 3px;
+border: 1px solid #ECECEC;
+
 /*ver como mudar cor da img*/
 }
 #titulo{
@@ -352,4 +355,97 @@ border-radius: 3px;
 	letter-spacing: 0.05em;
 
 	color: #FFFFFF;
+}
+#post2{
+	
+	height: 54px;
+	width: 1234;
+	left: 34px;
+	right: 291px;
+	margin-top: 50px;
+	padding: 100px 17px;
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 900;
+	font-size: 24px;
+	line-height: 25px;
+	/* or 104% */
+	letter-spacing: 0.05em;
+
+	color: #FFFFFF;
+}
+#imagem1{
+	border-radius: 100px;
+	width: 100px;
+	height: 100px;
+	border: 1px solid #ED7839;
+}
+#textb{
+	height: 36px;
+	left: 134px;
+	right: 473px;
+	margin-top:-80px;
+	margin-left: 110px;
+}
+section{
+	position: absolute;
+width: 242px;
+height: 45px;
+left: 1090px;
+top: 173px;
+
+background: #FDF1EB;
+border: 1px solid #ECECEC;
+border-radius: 3px 3px 0px 0px;
+
+
+}
+#detalhes{
+	margin-top: 10px;
+	margin-left: 10px;
+	font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 25px;
+color: #4E4E4E;
+
+}
+#box{
+width: 242px;
+height: 364px;
+left: 831px;
+top: 133px;
+margin-top: 10px;
+font-family: 'Quicksand';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 20px;
+/* or 14px */
+
+letter-spacing: 0.02em;
+
+color: #5C5C5C;
+border: 1px solid #ECECEC;
+border-radius: 3px;
+
+}
+#fontes{
+	color: gray;
+
+}
+#barra{
+
+width: 3px;
+height: 340px;
+left: 149px;
+top: 28px;
+margin-left: 230px;
+margin-top: -330px;
+margin-bottom: 0px;
+background: 
+border-radius: 5px;
+
+background: #E7E7E7;
 }
