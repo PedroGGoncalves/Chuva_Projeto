@@ -1,5 +1,7 @@
 
 
+
+
 header{
 
 	position: absolute;
@@ -243,7 +245,7 @@ color: #ED7839;
 }
 
 #download{
-	margin-left: 800px;
+	margin-left: 830px;
 	margin-top: 20px;
 	top: 100px;
 	width: 120px;
@@ -268,7 +270,7 @@ color: #ED7839;
 
 }
 #estrela{
-	margin-left: 930px;
+	margin-left: 960px;
 	margin-top: -30px;
 	top: 100px;
 	width: 43px;
@@ -285,7 +287,7 @@ color: #ED7839;
 	border-radius: 10px; 
 }
 #doi{
-	margin-left: 980px;
+	margin-left: 1010px;
 	margin-top: -30px;
 	top: 100px;
 	width: 43px;
@@ -300,4 +302,54 @@ color: #ED7839;
 	
 	padding: 8px;
 	border-radius: 10px; 
+}
+article h2{
+	position: absolute;
+height: 25px;
+left: 820px;
+right: 0px;
+top: 43px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 25px;
+/* identical to box height, or 179% */
+
+text-align: right;
+letter-spacing: 0.05em;
+
+color: #ED7839;
+}
+article #postagem
+{
+	position: absolute;
+width: 783px;
+height: 439px;
+left: 2px;
+top: 73px;
+background: url(../imagens/dewey1.png) rgba(141, 53, 6, 0.5); 
+border-radius: 3px;
+/*ver como mudar cor da img*/
+}
+#titulo{
+	
+	height: 54px;
+	width: 734;
+	left: 34px;
+	right: 291px;
+	top: 25px;
+	padding: 35px 17px;
+
+	font-family: 'Roboto';
+	font-style: normal;
+	font-weight: 900;
+	font-size: 24px;
+	line-height: 25px;
+	/* or 104% */
+
+	letter-spacing: 0.05em;
+
+	color: #FFFFFF;
 }
