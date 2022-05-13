@@ -2,6 +2,8 @@
 
 
 
+
+
 header{
 
 	position: absolute;
@@ -641,7 +643,7 @@ text-align: center;
 color: #5C5C5C;
 }
 #assunto{
-margin-top:50px;
+margin-top:20px;
 padding: 15px;
 font-family: 'Roboto';
 font-style: normal;
@@ -681,4 +683,136 @@ color: #4D4D4D;
 width: 1025.5px;
 height: 31px;
 margin-left: 15px;
+background: url(../imagens/Rectangle3.1.png);
+}
+#shape{
+	padding: 10px;
+}
+#retang{
+	width: 205.1px;
+	height: 31px;
+	margin-top: -36px;
+    background: url(../imagens/Rectangle.png);
+	float: right;
+	text-align: center;
+	color: white;
+	text-decoration: none;
+}
+#assunto2{
+	font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 21px;
+text-align: center;
+padding: 15px;
+color: #ED7839
+}
+#descubra{
+	font-family: 'Quicksand';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 137.5%;
+/* identical to box height, or 19px */
+
+text-align: center;
+text-decoration-line: underline;
+
+color: #F48F44
+}
+#p2
+{
+
+font-family: 'Quicksand';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+/* identical to box height */
+
+text-align: center;
+
+}
+#resumo2{
+	width: 1058px;
+height: 45px;
+left: 265px;
+top: 642px;
+
+background: #FDF1EB;
+border: 1px solid #ECECEC;
+border-radius: 3px 3px 0px 0px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 25px;
+color: #4E4E4E;
+
+}
+#lorem4{
+width: 1058px;
+height: 670px;
+left: 265px;
+top: 642px;
+		border: 1px solid #ECECEC;
+}
+#resu3{
+	width: 1058px;
+height: 145px;
+left: 265px;
+top: 642px;
+
+background: white;
+border: 1px solid #ECECEC;
+border-radius: 3px 3px 0px 0px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 25px;
+color: #ED7839;
+
+}
+#resu3 #imagem{
+	opacity: 0.9;
+	margin-top: -125px;
+	margin-left: -10px;
+}
+.classe{
+	opacity: 0.8;
+}
+#aguarde{
+	font-family: 'Quicksand';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #707070;
+}
+#editar{
+	font-family: 'Segoe UI';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+/* identical to box height */
+
+text-decoration-line: underline;
+
+color: #ED7839;
+}
+
+#divi{
+	position: absolute;
+	margin-top: -120px; 
+	margin-left: 420px;
+	text-align: center;
+	
 }
