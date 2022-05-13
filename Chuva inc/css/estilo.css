@@ -1,9 +1,5 @@
 
 
-
-
-
-
 header{
 
 	position: absolute;
@@ -473,6 +469,7 @@ color: #4E4E4E;
 }
 #resumo #texto{
 	margin: 10px;
+
 }
 #lorem{
 	width: 1058px;
@@ -487,8 +484,20 @@ font-weight: 400;
 font-size: 14px;
 line-height: 23px;
 letter-spacing: 0.02em;
+
+
 }
-#lorem #texto{
+.textt{
+	text-decoration: none;
+	font-family: 'Quicksand';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 23px;
+letter-spacing: 0.02em;
+color: #5C5C5C;
+}
+#lorem #texto, #lorem #texto a{
 	margin: 10px;
 }
 #orange{
@@ -815,4 +824,49 @@ color: #ED7839;
 	margin-left: 420px;
 	text-align: center;
 	
+}
+#lorem7{
+	
+	width: 1058px;
+height: 45px;
+left: 265px;
+top: 642px;
+
+background: #FDF1EB;
+border: 1px solid #ECECEC;
+border-radius: 3px 3px 0px 0px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 25px;
+color: #4E4E4E;
+}
+#lorem7{
+	width: 1058px;
+height: 352px;
+left: 265px;
+top: 1042px;
+	border: 1px solid #ECECEC;
+border-radius: 3px 3px 0px 0px;
+font-family: 'Quicksand';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 23px;
+letter-spacing: 0.02em;
+background: white;
+}
+#lorem7 #texto, #lorem7 #texto a{
+	margin: 10px;
+}
+#lorem7 p{
+	margin-top: 250px;
+}
+#rodape{
+	margin-top: 200px;
+}
+#rodape1{
+	margin-top: 100px;
 }
